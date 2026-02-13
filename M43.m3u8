@@ -30,7 +30,7 @@ http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233277.m3u8
 #EXTINF:-1 group-title="Doc الوثائقية",Animal 3
 http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233278.m3u8
 #EXTINF:-1 group-title="Doc الوثائقية",قويست عربية
-http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233275.m3um
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233275.m3u8
 #EXTINF:-1 group-title="Doc الوثائقية",وثائقي جميع الحيوانات
 http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215552.m3u8
 #EXTINF:-1 group-title="Doc الوثائقية",الحياة البرية والطبيعية
@@ -38,11 +38,11 @@ http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215553.m3u8
 #EXTINF:-1 group-title="Doc الوثائقية",ما خفي اعظم
 http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233279.m3u8
 #EXTINF:-1 group-title="Doc الوثائقية",الحرب العالمية الثانيه
-http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215554.m3um
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215554.m3u8
 #EXTINF:-1 group-title="Doc الوثائقية",عالم البحار
-http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215555.m3um
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215555.m3u8
 #EXTINF:-1 group-title="Doc الوثائقية",كوارث الطائرات
-http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215556.m3um
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215556.m3u8
 #EXTINF:-1 group-title="Doc الوثائقية",وثائقي
 http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215557.m3u8
 #EXTINF:-1 group-title="Doc الوثائقية",جولة في الصحافة العبرية
@@ -368,7 +368,7 @@ http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215542.m3u8
 #EXTINF:-1 group-title="Mbc إم بي سي",StarzPlay Crime
 http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215543.m3u8
 #EXTINF:-1 group-title="Mbc إم بي سي",StarzPlay Comedy
-http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215544.tsm3u8
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215544.m3u8
 #EXTINF:-1 group-title="Mbc إم بي سي",StarzPlay Action
 http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215545.m3u8
 #EXTINF:-1 group-title="Mbc إم بي سي",ADB
@@ -441,3 +441,135 @@ http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215334.m3u8
 http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215335.m3u8
 #EXTINF:-1 group-title="Bein ترفيه",BE JOUNIR
 http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215336.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Iraq 24
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217520.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Asil
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217521.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Edu
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217522.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Mbc
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217523.m3u8
+#EXTINF:-1 group-title="Iraq العراق",kurd
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217524.m3u8
+#EXTINF:-1 group-title="Iraq العراق",U Tv
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217525.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Now
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217526.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Afaq
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217527.m3u8
+#EXTINF:-1 group-title="Iraq العراق",1 Iraq
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217528.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Dijlah
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217529.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Sport
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217530.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Iraqia
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217531.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Anwar
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217532.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Future
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217533.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Syriac
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217534.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alanes
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217535.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alforat
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217536.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alaqila
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217537.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Zagros
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217538.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Kids Edu
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217539.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alnaeem
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217540.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Altaghier
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217541.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alanwar2
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217542.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Almawqef
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217543.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alghadeer
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217544.m3u8
+#EXTINF:-1 group-title="Iraq العراق",AlSumaria
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217545.m3u8
+#EXTINF:-1 group-title="Iraq العراق",AlRasheed
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217546.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Al Rafidain
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217547.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Almawsleya
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217548.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Sawt Alitra
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217549.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alhadath
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217550.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Karbala
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217551.m3u8
+#EXTINF:-1 group-title="Iraq العراق",12 Arabia
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217552.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alayam
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217553.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Altaleaa
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217554.m3u8
+#EXTINF:-1 group-title="Iraq العراق",AlAnbar
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217555.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Imam Ali
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217556.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alawla Tv
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217557.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alahad
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217558.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Rudaw
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217559.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alawla
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217560.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Shehab
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217561.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Aletejah
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217562.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alrabiaa
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217563.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Al Quran
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217564.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Al Basira
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217565.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Alawhad
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217566.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Aljanoub
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217567.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Al Shaaer
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217568.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Al eshraq
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217569.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Karbalaia
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217570.m3u8
+#EXTINF:-1 group-title="Iraq العراق",AlFallojah
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217571.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Almohtadi
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217572.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Turkuman
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217573.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Almasalah
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217574.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Al Kawthar
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217575.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Marjaeyat2
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217576.m3u8
+#EXTINF:-1 group-title="Iraq العراق",alsharqiyah
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217577.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Fursan Aliraq
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217578.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Saout alaqila
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217579.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Al Baghdadia
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217580.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Dijlah Zaman
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217581.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Imam Hussein
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217583.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Entertainment
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217584.m3u8
+#EXTINF:-1 group-title="Iraq العراق",alhadath
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217585.m3u8
+#EXTINF:-1 group-title="Iraq العراق",Karbala Documentary
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217586.m3u8
