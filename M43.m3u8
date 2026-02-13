@@ -1,115 +1,381 @@
-.EXTM3U
-
-#EXTINF:-1 group-title="ARABIC", MEKKE TV
-
-http://46.245.160.224/mekke/mekke/playlist.m3u8
-
-#EXTINF:-1 group-title=" "MEDINETV
-
-http://livetr.gostream.nl/medine/medine/hasbahca.m3u8
-
-#EXTINF:-1 group-title="ARABIC", MBC HD
-
-http://87.248.160.8/edge/smil:mbc/playlist.m3u8
-
-#EXTINF:-1 group-title="عرب" MBC ACTION
-
-http://63.237.48.23/ios/MBC_ACTION/MBC ACTION.m3u8 #EXTINF:-1 group-title="ARABIC", MBC BOLLYWOOD
-
-http://63.237.48.23/ios/MBC BOLLYWOOD/MBC BOLLYWOOD.m3u8
-
-#EXTINF:-1 group-title="ARABIC", MBC MAX2
-
-http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
-
-#EXTINF:-1 group-title="ARABIC", MBC MAX
-
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-
-#EXTINF:-1 group-title="ARABIC", MBC 2
-
-http://63.237.48.23/ios/MBC2/MBC2.m3u8
-
-#EXTINF:-1 group-title="ARABIC", MBC 4
-
-http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:-1 group-title="ARABIC", MBC 4
-
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:-1 group-title="عرب MBC ACTION
-
-http://63.237.48.3/ios/MBC ACTION/MBC ACTION.m3u8
-
-#EXTINF:-1 group-title="ARABIC", MBC ACTION 2
-
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-
-#EXTINF:-1 group-title="ARABIC", QURAN TV 1
-
-http://148.251.73.76:8000/live/cristo/start1/296.ts
-
-#EXTINF:-1 group-title="ARABIC", MBC MAX
-
-http://148.251.73.76:8000/live/cristo/start1/300.ts
-
-#EXTINF:-1 group-title="ARABIC", MBC 1
-
-http://148.251.73.76:8000/live/cristo/start1/306.ts
-
-#EXTINF:-1 group-title="ARABIC", MBC 2
-
-http://148.251.73.76:8000/live/cristo/start1/297.ts
-
-#EXTINF:-1 group-title="عرب" MBC ACTION
-
-http://148.251.73.76:8000/live/cristo/start1/299.ts
-
-#EXTINF:-1 group-title="ARABIC", MBC 4
-
-http://148.251.73.76:8000/live/cristo/start1/298.ts
-
-#EXTINF:-1 group-title="عربي BEIN MOVIES 1HD
-
-http://148.251.73.76:8000/live/cristo/start1/291.ts
-
-#EXTINF:-1 group-title="BEIN MOVIES 2HD
-
-http://148.251.73.76:8000/live/cristo/start1/290.ts
-
-#EXTINF:-1 group-title="ARABIC", 2M MAROC
-
-http://148.251.73.76:8000/live/cristo/start1/305.ts
-
-#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 1 HD
-
-http://148.251.73.76:8000/live/cristo/start1/288.ts
-
-#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 2 HD
-
-http://148.251.73.76:8000/live/cristo/start1/287.ts
-
-#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 3 HD
-
-http://148.251.73.76:8000/live/cristo/start1/284.ts
-
-#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 4 HD
-
-http://148.251.73.76:8000/live/cristo/start1/283.ts
-
-#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 5 HD
-
-http://148.251.73.76:8000/live/cristo/start1/282.ts
-
-#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 6 HD
-
-http://148.251.73.76:8000/live/cristo/start1/281.ts
-
-#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 7 HD
-
-http://148.251.73.76:8000/live/cristo/start1/280.ts
-
-#EXTINF:-1 group-title="ARABIC", BEIN SPORTS 8 HD
-
-http://148.251.73.76:8000/live/cristo/start1/279.ts
+#EXTM3U
+#EXTINF:-1 group-title="Art اي ار تي",ART AFLAM 1
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215392.ts
+#EXTINF:-1 group-title="Art اي ار تي",ART AFLAM 2
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215393.ts
+#EXTINF:-1 group-title="Art اي ار تي",ART CINEMA
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215394.ts
+#EXTINF:-1 group-title="Art اي ار تي",ART Hekayat 1
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215395.ts
+#EXTINF:-1 group-title="Art اي ار تي",ART Hekayat 2
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215396.ts
+#EXTINF:-1 group-title="Art اي ار تي",ART
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215397.ts
+#EXTINF:-1 group-title="Art اي ار تي",ART Moives
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215398.ts
+#EXTINF:-1 group-title="Doc الوثائقية",Nat Geo AD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/217596.ts
+#EXTINF:-1 group-title="Doc الوثائقية",beIN Animal Planet HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215333.ts
+#EXTINF:-1 group-title="Doc الوثائقية",RELAXING WALKING 1
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215577.ts
+#EXTINF:-1 group-title="Doc الوثائقية",RELAXING WALKING 2
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/216969.ts
+#EXTINF:-1 group-title="Doc الوثائقية",RELAXING WALKING 3
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233145.ts
+#EXTINF:-1 group-title="Doc الوثائقية",Animal 1
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233276.ts
+#EXTINF:-1 group-title="Doc الوثائقية",Animal 2
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233277.ts
+#EXTINF:-1 group-title="Doc الوثائقية",Animal 3
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233278.ts
+#EXTINF:-1 group-title="Doc الوثائقية",قويست عربية
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233275.ts
+#EXTINF:-1 group-title="Doc الوثائقية",وثائقي جميع الحيوانات
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215552.ts
+#EXTINF:-1 group-title="Doc الوثائقية",الحياة البرية والطبيعية
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215553.ts
+#EXTINF:-1 group-title="Doc الوثائقية",ما خفي اعظم
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233279.ts
+#EXTINF:-1 group-title="Doc الوثائقية",الحرب العالمية الثانيه
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215554.ts
+#EXTINF:-1 group-title="Doc الوثائقية",عالم البحار
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215555.ts
+#EXTINF:-1 group-title="Doc الوثائقية",كوارث الطائرات
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215556.ts
+#EXTINF:-1 group-title="Doc الوثائقية",وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215557.ts
+#EXTINF:-1 group-title="Doc الوثائقية",جولة في الصحافة العبرية
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215558.ts
+#EXTINF:-1 group-title="Doc الوثائقية",الكون
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215559.ts
+#EXTINF:-1 group-title="Doc الوثائقية",وثائقي مختلط  2
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215560.ts
+#EXTINF:-1 group-title="Doc الوثائقية",1 وثائقي مختلط
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215561.ts
+#EXTINF:-1 group-title="Doc الوثائقية",1 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215562.ts
+#EXTINF:-1 group-title="Doc الوثائقية",2 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215563.ts
+#EXTINF:-1 group-title="Doc الوثائقية",2 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215564.ts
+#EXTINF:-1 group-title="Doc الوثائقية",3 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215565.ts
+#EXTINF:-1 group-title="Doc الوثائقية",4 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215566.ts
+#EXTINF:-1 group-title="Doc الوثائقية",5 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215567.ts
+#EXTINF:-1 group-title="Doc الوثائقية",6 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215568.ts
+#EXTINF:-1 group-title="Doc الوثائقية",7 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215569.ts
+#EXTINF:-1 group-title="Doc الوثائقية",8 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215570.ts
+#EXTINF:-1 group-title="Doc الوثائقية",9 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215571.ts
+#EXTINF:-1 group-title="Doc الوثائقية",10 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215572.ts
+#EXTINF:-1 group-title="Doc الوثائقية",11 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215573.ts
+#EXTINF:-1 group-title="Doc الوثائقية",12 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215574.ts
+#EXTINF:-1 group-title="Doc الوثائقية",13 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215575.ts
+#EXTINF:-1 group-title="Doc الوثائقية",14 وثائقي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215576.ts
+#EXTINF:-1 group-title="Doc الوثائقية",beIN Discovery Family HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215334.ts
+#EXTINF:-1 group-title="Kids اطفال",القدس تون
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233229.ts
+#EXTINF:-1 group-title="Kids اطفال",اطفال 1
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233151.ts
+#EXTINF:-1 group-title="Kids اطفال",اطفال 2
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233152.ts
+#EXTINF:-1 group-title="Kids اطفال",اطفال 3
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233153.ts
+#EXTINF:-1 group-title="Kids اطفال",اطفال 4
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/233154.ts
+#EXTINF:-1 group-title="Kids اطفال",دودي وفوني
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204282.ts
+#EXTINF:-1 group-title="Kids اطفال",سراج
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204072.ts
+#EXTINF:-1 group-title="Kids اطفال",Danny go
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204071.ts
+#EXTINF:-1 group-title="Kids اطفال",Omar & Hana
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204070.ts
+#EXTINF:-1 group-title="Kids اطفال",baby bus
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204052.ts
+#EXTINF:-1 group-title="Kids اطفال",قناة اسرتنا
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203838.ts
+#EXTINF:-1 group-title="Kids اطفال",كونان
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203794.ts
+#EXTINF:-1 group-title="Kids اطفال",بون بون
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203793.ts
+#EXTINF:-1 group-title="Kids اطفال",ليلى تي في
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203273.ts
+#EXTINF:-1 group-title="Kids اطفال",يزون و روزا
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203272.ts
+#EXTINF:-1 group-title="Kids اطفال",زين وزينة
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203271.ts
+#EXTINF:-1 group-title="Kids اطفال",قناة فرفشة
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203267.ts
+#EXTINF:-1 group-title="Kids اطفال",مرح كي جي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203268.ts
+#EXTINF:-1 group-title="Kids اطفال",1 2 3 جو
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203269.ts
+#EXTINF:-1 group-title="Kids اطفال",تعلم مع نور
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/203270.ts
+#EXTINF:-1 group-title="Kids اطفال",Bounce Patrol
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204024.ts
+#EXTINF:-1 group-title="Kids اطفال",وناسة
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/99461.ts
+#EXTINF:-1 group-title="Kids اطفال",حبيبي بيبي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223006.ts
+#EXTINF:-1 group-title="Kids اطفال",خلودة
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202895.ts
+#EXTINF:-1 group-title="Kids اطفال",Ms Apple
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/204023.ts
+#EXTINF:-1 group-title="Kids اطفال",ناستيا
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223007.ts
+#EXTINF:-1 group-title="Kids اطفال",أوكتونوتس
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202897.ts
+#EXTINF:-1 group-title="Kids اطفال",سمسم
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223008.ts
+#EXTINF:-1 group-title="Kids اطفال",سوبر جوجو
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223009.ts
+#EXTINF:-1 group-title="Kids اطفال",توم المتكلم
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202896.ts
+#EXTINF:-1 group-title="Kids اطفال",سوار وماسة
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202891.ts
+#EXTINF:-1 group-title="Kids اطفال",زينغو ورينغو
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202878.ts
+#EXTINF:-1 group-title="Kids اطفال",شفا
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202876.ts
+#EXTINF:-1 group-title="Kids اطفال",خمسة اطفال
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202873.ts
+#EXTINF:-1 group-title="Kids اطفال",فيلد ونيكيتا
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/91365.ts
+#EXTINF:-1 group-title="Kids اطفال",بابجي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202872.ts
+#EXTINF:-1 group-title="Kids اطفال",KD: افلام كرتون
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48450.ts
+#EXTINF:-1 group-title="Kids اطفال",توتي
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223010.ts
+#EXTINF:-1 group-title="Kids اطفال",PAL CARTOON
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/23737.ts
+#EXTINF:-1 group-title="Kids اطفال",قناة ماشا والدب
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/15294.ts
+#EXTINF:-1 group-title="Kids اطفال",Diana Roma Show
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/33294.ts
+#EXTINF:-1 group-title="Kids اطفال",AstroLOLogy
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202789.ts
+#EXTINF:-1 group-title="Kids اطفال",Rabbids Invasion
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202793.ts
+#EXTINF:-1 group-title="Kids اطفال",The.Rabbids
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202794.ts
+#EXTINF:-1 group-title="Kids اطفال",Oscar s.Oasis
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202792.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:مغامرات الفضاء غريندايزر
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48447.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:1&2 بطاريق مدغشقر
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48454.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:مغامرات سندباد
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48456.ts
+#EXTINF:-1 group-title="Kids اطفال",KD: باندا الكونج فو
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48459.ts
+#EXTINF:-1 group-title="Kids اطفال",سنان
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202879.ts
+#EXTINF:-1 group-title="Kids اطفال",السنافر
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202832.ts
+#EXTINF:-1 group-title="Kids اطفال",KD: Katakit TV
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48461.ts
+#EXTINF:-1 group-title="Kids اطفال",power ranger
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202838.ts
+#EXTINF:-1 group-title="Kids اطفال",بيل وسيباستيان
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/202833.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:Shaun The sheep
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48465.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:CN Arabia
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48475.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:KARAMEESH
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48476.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:KID:Atfal Mawaheb
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48478.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:KOKKY TV
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48479.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:MICKEY CHANNEL
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48482.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:Mr Bean TV
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48484.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:SASUKI
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48487.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:SPACETOON ARABIC
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48488.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:Spongbob
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48489.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:TAHA TV
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48490.ts
+#EXTINF:-1 group-title="Kids اطفال",KD:Teletubbies
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/48491.ts
+#EXTINF:-1 group-title="Kids اطفال",TOM AND JERRY
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/7622.ts
+#EXTINF:-1 group-title="Kids اطفال",Clarence
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/223005.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC 1 HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215470.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC 2 HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215471.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC 3 HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215472.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC 4 HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215473.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC 5 HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215474.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC Masr Drama
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215498.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC DRAMA HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215475.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC ACTION HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215476.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC MASR 1 HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215477.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC MASR 2 HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215478.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC IRAQ HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215479.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC DRAMA+ HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215480.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC Variety HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215481.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC MAX HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215482.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC 1 FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215483.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC 2 FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215484.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC 3 FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215485.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC 4 FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215486.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC 5 FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215487.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC DRAMA FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215488.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC ACTION FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215489.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC MASR 1 FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215490.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC MASR 2 FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215491.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC IRAQ FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215492.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC DRAMA+ FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215493.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC Variety FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215494.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC Bollywood FHD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215495.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC FM HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215496.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",MBC ELIFE HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215497.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Rotana Aflam +
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215500.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Rotana M+
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215501.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Rotana Kids
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215502.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Rotana +
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215503.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Rotana Cinema +US
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215504.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Rotana Cinema +FR
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215505.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Diseny
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215506.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Diseny Jr HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215507.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",STC SPORT 1
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215508.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",STC SPORT 2
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215509.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",STC TV Cinema
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215510.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Stc Kids
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215511.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",STC Family
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215512.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",STC Drama
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215513.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Reel PX Action
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215514.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Reel PX Family
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215515.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Reel PX UNLIMITED
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215516.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Nature Time
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215517.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",TIJI
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215518.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",GULI BIL ARABIC
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215519.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",FilmBox ART HOUSE
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215520.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Asili Wahasri
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215521.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",FIGHT NETWORK
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215522.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",FIGHT BOX
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215523.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",360 Tunebox
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215524.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Top Gear
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215525.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",TDC
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215526.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",ZooMoo
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215527.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Gametoon HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215528.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Motorvision
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215529.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Thaqafeyyah
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215530.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",TRACE URBAN HD
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215531.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",TRACE Sport Stars
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215532.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Asharq Documentary
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215533.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",AWE
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215534.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Fashiontv
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215535.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",HORSE
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215536.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Travel Xp
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215537.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Insighttv
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215538.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Duck
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215539.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Thekhayal
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215540.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",DRAMA
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215541.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",StarzPlay Series
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215542.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",StarzPlay Crime
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215543.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",StarzPlay Comedy
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215544.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",StarzPlay Action
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215545.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",ADB
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215546.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",24 SPORT KSA
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215547.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Smart Zone
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215548.ts
+#EXTINF:-1 group-title="Mbc إم بي سي",Kidz Zone Max
+http://matrix.raedisd.com:80/live/r26oPudZIl2i/r26oPudZIl2i/215549.ts
